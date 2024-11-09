@@ -1,0 +1,31 @@
+Unzip the Teacher_Portal_Env folder
+
+Go to Env path ==> cd Teacher_Portal_Env
+
+           F:\Assignment\Teacher_Portal_Env>
+
+Activate the env ==>> Scripts\activate
+
+	   F:\Assignment\Teacher_Portal_Env>Scripts\activate
+
+	   (Teacher_Portal_Env) F:\Assignment\Teacher_Portal_Env>
+
+go to project name path ==>> cd teacher_portal
+
+	   (Teacher_Portal_Env) F:\Assignment\Teacher_Portal_Env>cd teacher_portal
+
+Install all dependencies before run the server
+
+run the server ==>> py manage.py runserver
+
+	   (Teacher_Portal_Env) F:\Assignment\Teacher_Portal_Env\teacher_portal>py manage.py runserver
+
+Admin page
+============
+
+create super user
+add username
+password
+
+add teacher credentials in admin page
+after teacher login with their credentials ,teacher can add student and update student details and also teacher can delete the student.
